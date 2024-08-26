@@ -1,11 +1,19 @@
 # Portfólio-FrontEnd
-Treinamento básico de criação da parte frontal de um site, o projeto deve abrigar os links de contato, projetos do cliente e ser responsivo para com o usuário, posteriormente viso adicionar mecânicas mais avançadas para a construção do projeto.
 
-## Installation 
-Baixe o arquivo que esteja na versão mais atualizada e abra-o com o seu Visual Studio Code, caso queira deixa-lo de melhor acesso use a ferramenta Live Server.
+Este projeto é um treinamento básico para a criação da parte frontal de um site. O objetivo é desenvolver uma interface que inclua links de contato, apresentação dos projetos do cliente e que seja responsiva para garantir uma boa experiência ao usuário. Futuramente, pretendo adicionar funcionalidades mais avançadas para aprimorar o projeto.
 
-## Usage
-Botões clicáveis que exibem suas informações desejadas junto de animações básicas e um indice que facilitará a visualisação do site, possuirá um menu lateral que transportará o usuário pelo site, videos e workshops estarão disponiveis em uma página a parte guiada pelos links do site principal, em contrapartida caso o site esteja sob serviço de algum servidor você poderá acessa-lo através de qualquer navegador.
+## Instalação
 
-## Support
-Sinta-se a vontade para me chamar no linkedin para quaisquer dúvidas.
+1. Baixe a versão mais atualizada dos arquivos do projeto.
+2. Abra os arquivos utilizando o Visual Studio Code.
+3. Para facilitar o acesso e visualização durante o desenvolvimento, recomendo o uso da extensão **Live Server**.
+
+## Uso
+
+O site possui botões clicáveis que exibem informações relevantes com animações básicas, além de um índice para facilitar a navegação. Também há um menu lateral que permite o transporte fácil do usuário entre as seções do site. 
+
+Além disso, o site terá uma página separada para vídeos e workshops, acessíveis através dos links do site principal. Se o site estiver hospedado em um servidor, você poderá acessá-lo através de qualquer navegador.
+
+## Suporte
+
+Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](#). Estou à disposição para ajudar!
