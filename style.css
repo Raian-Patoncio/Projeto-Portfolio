@@ -327,6 +327,8 @@ section.portfolio .flex {
     color: #ffff;
     opacity: 0;
     transition: .5s;
+    flex-direction: column;
+    
 }
 
 .overlay:hover {
